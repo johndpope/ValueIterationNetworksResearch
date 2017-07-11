@@ -1,0 +1,56 @@
+numstates; 100 
+ num value iterations; 30 
+ conv type; circular 
+conv width; 11 
+ channel_i; 1 
+ channel_q; 15 
+ hidden layer1 size; 30 
+hidden layer2 size; 30 
+ velocity to reward hidden layer size; 100 
+learning rate; 0.000100 
+ TAU; 0.001000 
+ batch size; 64 
+Episodes Spent Training; 50 Episode Eval Avg 
+199; -242.771108013
+numstates; 100 
+ num value iterations; 30 
+ conv type; circular 
+conv width; 11 
+ channel_i; 1 
+ channel_q; 15 
+ hidden layer1 size; 30 
+hidden layer2 size; 30 
+ velocity to reward hidden layer size; 100 
+learning rate; 0.000100 
+ TAU; 0.001000 
+ batch size; 64 
+Episodes Spent Training; 50 Episode Eval Avg 
+199; -249.351915734
+numstates; 100 
+ num value iterations; 30 
+ conv type; circular 
+conv width; 11 
+ channel_i; 1 
+ channel_q; 15 
+ hidden layer1 size; 30 
+hidden layer2 size; 30 
+ velocity to reward hidden layer size; 100 
+learning rate; 0.000100 
+ TAU; 0.001000 
+ batch size; 64 
+Episodes Spent Training; 50 Episode Eval Avg 
+199; -241.977761707
+numstates; 100 
+ num value iterations; 30 
+ conv type; circular 
+conv width; 11 
+ channel_i; 1 
+ channel_q; 15 
+ hidden layer1 size; 30 
+hidden layer2 size; 30 
+ velocity to reward hidden layer size; 100 
+learning rate; 0.000100 
+ TAU; 0.001000 
+ batch size; 64 
+Episodes Spent Training; 50 Episode Eval Avg 
+199; -477.384028948
